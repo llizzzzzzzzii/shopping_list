@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shopping_list</string>
+    <string name="name_of_app">Shopping List</string>
+    <string name="name_item">apple</string>
+    <string name="name_of_add_btn">Добавить товар</string>
+    <string name="example_item">Apple</string>
+</resources>
